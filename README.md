@@ -13,6 +13,6 @@ A processor that generates real estate data from Propstream to map data in Podio
 
 **Be Here Now**<br />
 9 flipping cards. Each with image (activity that represents *presence* vs. not) on one side and descriptions on the other. 
-* **beHereNow.html** - Structure of the cards
-* **beHereNow.css** - Styles of the cards 
+* **index.html** - Structure of the cards
+* **style.css** - Styles of the cards 
 
