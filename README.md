@@ -6,9 +6,10 @@ This is an experimental and fun section that I built to for daily solutions and 
 
 ## File Descriptions
 
-* **realEstate.ipynb** - The 
+**Real Estate**<br />
+* **realEstate.ipynb** - Python file
 
-**Be Here Now**
+**Be Here Now**<br />
 9 flipping cards. Each with image (activity that represents *presence* vs. not) on one side and descriptions on the other. 
 * **beHereNow.html** - 
 * **beHereNow.css** - [Building in HTML & CSS...] 9 flipping cards. Each with image (activity that represents *presence* vs. not) on one side and descriptions on the other. 
